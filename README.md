@@ -101,4 +101,4 @@ This repository contains MATLAB and Simulink files for labs focusing on analog f
    git clone https://github.com/elma7e/Simulink-LP-AM-FM.git
    
 ## Results
-Checkout the report done on these labs.
+Checkout the report done on these labs [here](./Analog%20Communications%20Report%20%5B210237%5D.pdf)
