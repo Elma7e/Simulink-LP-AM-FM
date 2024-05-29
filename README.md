@@ -8,7 +8,6 @@ This repository contains MATLAB and Simulink files for labs focusing on analog f
 - [Lab 2: Amplitude Modulation](#lab-2-amplitude-modulation)
 - [Lab 3: Frequency Modulation](#lab-3-frequency-modulation)
 - [Setup and Prerequisites](#setup-and-prerequisites)
-- [Usage](#usage)
 - [Results](#results)
 
 ## Lab 1: Low Pass Filter Design
@@ -93,12 +92,6 @@ This repository contains MATLAB and Simulink files for labs focusing on analog f
 - MATLAB and Simulink installed.
 - Addons: Signal Processing Toolbox, 
 - Basic familiarity with Simulink and MATLAB environment.
-
-## Usage
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/elma7e/Simulink-LP-AM-FM.git
    
 ## Results
 Checkout the report done on these labs [here](./Analog%20Communications%20Report%20%5B210237%5D.pdf)
